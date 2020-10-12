@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "App": [], 
+        "details": [
+            {
+                "appID": "85M7Q62PLJ.jp.co.intercom.mct",
+                "paths": [
+                    "https://yabatanien.github.io/ios_ota/mytalkChat/index.html",
+                    "/ios_ota/mytalkChat/index.html",
+                    "/index.html"
+                ]
+            }
+        ]
+    }
+}
