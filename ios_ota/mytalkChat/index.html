@@ -1,3 +1,18 @@
+<script>
+var IOS_SCHEME = 'webcredentials:jp.co.intercom.mct';
+var userAgent = navigator.userAgent.toLowerCase();
+var fn = function(msg1){
+  launch_frame.location.href = IOS_SCHEME + '://';
+};
+// iPhone
+if (userAgent.search(/iphone|ipad|ipod/) > -1) {
+   var timer = setInterval(fn, 1000);
+}
+</script>
+
+<div style="width: 0; height: 0; overflow: hidden;">
+  <iframe id="urlScheme_iframe" name="urlScheme_iframe"></iframe>
+</div>
 <a href="itms-services://?action=download-manifest&amp;url=https://yabatanien.github.io/ios_ota/mytalkChat/DistributionSummary.plist">
     Download
 </a>
