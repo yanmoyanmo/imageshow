@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "App": [], 
+        "details": [
+            {
+                "appID": "85M7Q62PLJ.com.rileytestut.ios.g.b.a",
+                "paths": [
+                    "https://yabatanien.github.io/ios_ota/g/index.html",
+                    "/ios_ota/g/index.html",
+                    "/index.html"
+                ]
+            }
+        ]
+    }
+}

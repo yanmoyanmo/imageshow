@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "App": [], 
+        "details": [
+            {
+                "appID": "85M7Q62PLJ.jp.co.intercom.remoteoperator.console-test",
+                "paths": [
+                    "https://yabatanien.github.io/ios_ota/imageshow/index.html",
+                    "/ios_ota/imageshow/index.html",
+                    "/index.html"
+                ]
+            }
+        ]
+    }
+}
